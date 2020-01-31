@@ -1,0 +1,14 @@
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\bin\Debug\netcoreapp2.1\DapperDemo.DAL.deps.json
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\bin\Debug\netcoreapp2.1\DapperDemo.DAL.dll
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\obj\Debug\netcoreapp2.1\DapperDemo.DAL.csprojAssemblyReference.cache
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\obj\Debug\netcoreapp2.1\DapperDemo.DAL.csproj.CoreCompileInputs.cache
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\obj\Debug\netcoreapp2.1\DapperDemo.DAL.AssemblyInfoInputs.cache
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\obj\Debug\netcoreapp2.1\DapperDemo.DAL.AssemblyInfo.cs
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\bin\Debug\netcoreapp2.1\DapperDemo.DAL.pdb
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\bin\Debug\netcoreapp2.1\DapperDemo.Model.dll
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\bin\Debug\netcoreapp2.1\DapperDemo.Model.pdb
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\obj\Debug\netcoreapp2.1\DapperDemo.DAL.csproj.CopyComplete
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\obj\Debug\netcoreapp2.1\DapperDemo.DAL.dll
+F:\Experiment\Dapper\DapperDemo\DapperDemo.DAL\obj\Debug\netcoreapp2.1\DapperDemo.DAL.pdb

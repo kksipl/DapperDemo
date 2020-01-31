@@ -1,0 +1,25 @@
+﻿@model IEnumerable<DapperDemo.Model.Tenant>
+
+<div style="padding:5px;">
+    <p>
+        <a asp-action="Create" asp-controller="Home" title="Create"><i class="fas fa-plus-circle fa-3x"></i></a><h5>Tenant Service</h5>
+    </p>
+
+    <div class="card-columns">
+        @foreach (var item in Model)
+        {
+            <div class="card" style="width:300px">
+                <div class="card-body">
+                    <h4 class="card-title">
+                        @($"{item.FirstName} {item.MiddleName} {item.LastName}")
+                    </h4>
+                    <p class="card-text">@($"{item.ContactNumber1}")</p>
+                    <p class="card-text">@($"{item.ContactNumber2}")</p>
+                    <a asp-controller="Home" asp-action="Details" asp-route-id="@(item.TenantId)" class="btn btn-success">View Details</a>
+                    @*<a title="Edit" asp-controller="Home" asp-action="Edit" asp-route-id="@(item.TenantId)" class="btn btn-success">Edit</a>*@
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

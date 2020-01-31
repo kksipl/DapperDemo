@@ -1,0 +1,8 @@
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\bin\Debug\netcoreapp2.1\DapperDemo.Model.deps.json
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\bin\Debug\netcoreapp2.1\DapperDemo.Model.dll
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\bin\Debug\netcoreapp2.1\DapperDemo.Model.pdb
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\obj\Debug\netcoreapp2.1\DapperDemo.Model.csproj.CoreCompileInputs.cache
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\obj\Debug\netcoreapp2.1\DapperDemo.Model.AssemblyInfoInputs.cache
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\obj\Debug\netcoreapp2.1\DapperDemo.Model.AssemblyInfo.cs
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\obj\Debug\netcoreapp2.1\DapperDemo.Model.dll
+F:\Experiment\Dapper\DapperDemo\DapperDemo.Model\obj\Debug\netcoreapp2.1\DapperDemo.Model.pdb
